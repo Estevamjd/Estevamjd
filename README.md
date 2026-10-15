@@ -24,6 +24,7 @@ Dev **Full Stack júnior** no Rio de Janeiro, cursando **Engenharia de Software*
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**StockFlow**](https://github.com/Estevamjd/stockflow) | SaaS de estoque e vendas multi-tenant com integração Shopee (webhook + modo simulação), custo médio e relatórios | Next.js, Prisma, PostgreSQL, NextAuth, TanStack Query |
+| [**Prospector**](https://github.com/Estevamjd/automacao-prospeccao-leads) | Automação para prospecção e organização de leads: busca, qualificação por regras e funil comercial | Next.js, Supabase, Edge Functions, APIs |
 | [**Calmeira Imóveis**](https://github.com/Estevamjd/demo-imobiliaria) · [demo](https://demo-imobiliaria-delta.vercel.app) | Projeto conceito: site de imobiliária com busca filtrável e painel de leads | Next.js, TypeScript, Tailwind |
 | [**TV Complexo**](https://github.com/Estevamjd/TV-COMPLEXO) · [site](https://www.tvcomplexo.com.br) | Plataforma de mídia comunitária: vídeos, notícias e mapa de denúncias geolocalizadas, com painel admin | Next.js 16, PostgreSQL (Neon), Leaflet, JWT, Vercel Cron |
 | [**MeuDia**](https://github.com/Estevamjd/MeuDia) | Assistente pessoal web/mobile para rotina, saúde, hábitos, treinos, finanças e agenda | Next.js, React Native (Expo), Supabase, Turborepo |
